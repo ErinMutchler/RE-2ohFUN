@@ -1,4 +1,4 @@
 # RETwoOFun
  My take on the infamous RE201 Space Delay
  
- [![Plugin demo](https://youtu.be/kjfDKo0wR0M)](https://youtu.be/kjfDKo0wR0M)
+ [![Plugin demo](https://youtu.be/kjfDKo0wR0M/0.jpg)](https://youtu.be/kjfDKo0wR0M)
